@@ -8,3 +8,4 @@
 |名字   |Discord Name |Github Name   |喜歡的7-11飲料|Vercel連結|
 |-------|-------------|--------------|----------|----------|
 |黃冠惟 |9c           |New9c         |Coca Cola     |https://brawl-predictor.vercel.app|
+|蔡根蜆 |Bacon        |KKenn1       |Milk         |https://club-web-hw-1-bacon.vercel.app|
