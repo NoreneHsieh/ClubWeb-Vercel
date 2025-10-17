@@ -9,4 +9,4 @@
 |-------|-------------|--------------|----------|----------|
 |黃冠惟 |9c           |New9c         |Coca Cola     |https://brawl-predictor.vercel.app|
 |蔡根蜆 |Bacon        |KKenn1       |Tea        |https://club-web-hw-1-bacon.vercel.app|
-|顏偉展 |smilepaper   |smilepaper   |coffee     |club-web-hw-1-tau.vercel.app|
+|顏偉展 |smilepaper   |smilepaper   |coffee     |https://club-web-hw-1-tau.vercel.app/|
